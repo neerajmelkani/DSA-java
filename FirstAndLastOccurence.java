@@ -33,5 +33,5 @@ public class FirstAndLastOccurence {
             System.out.println("First: " + first);
             System.out.println("Last: " + last);
         }
-    
+
 }
