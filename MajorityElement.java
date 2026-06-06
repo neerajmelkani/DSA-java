@@ -24,4 +24,5 @@ public class MajorityElement {
 
         System.out.println("No Majority Element");
     }
+    
 }
