@@ -27,6 +27,7 @@ public class MissingPositiveNum {
                     System.out.println("First Missing Positive: " + missing);
                     break;
                 }
+                    
 
                 missing++;
             }
