@@ -10,7 +10,7 @@ public class A2Darray {
          }
          System.out.println();
       }
-
+   
       //using  indexing 
       String[][] string_2DArray = new String[2][2];
       string_2DArray[0][0] = "Welcome";
