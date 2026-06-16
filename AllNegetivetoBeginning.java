@@ -25,7 +25,6 @@ public class AllNegetivetoBeginning {
                     j++;
                 }
             }
-
             for(int num : arr) {
                 System.out.print(num + " ");
             }
