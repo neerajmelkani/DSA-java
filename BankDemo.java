@@ -46,7 +46,6 @@ class CheckingAccount {
       return number;
    }
 }
-
 class InsufficientFundsException extends Exception {
    private double amount;
    
