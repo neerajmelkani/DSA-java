@@ -18,7 +18,6 @@
         System.out.println("Odd count: " + odd);
     }
 }*/
-
 import java.util.*;
 
 public class CountEvenOddUser {
