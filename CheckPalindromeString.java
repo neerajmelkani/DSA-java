@@ -18,6 +18,8 @@ public class CheckPalindromeString {
             right--;
         }
 
+        
+        
         System.out.println(isPalindrome ? "Palindrome" : "Not Palindrome");
     }
 }
