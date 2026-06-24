@@ -5,9 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 public class FileTest {
-
    public static void main(String args[]) {
-   
       try {
          byte bWrite [] = {65, 66, 67, 68, 69};
          OutputStream os = new FileOutputStream("test.txt");
@@ -15,7 +13,6 @@ public class FileTest {
             os.write( bWrite[x] );   // writes the bytes
          }
          os.close();
-     
          InputStream is = new FileInputStream("test.txt");
          int size = is.available();
 
