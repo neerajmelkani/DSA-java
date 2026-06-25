@@ -7,7 +7,6 @@ public class FindMAxElInARR {
         System.out.println("enter the size of array");
         int n  = sc.nextInt();
         int[] arr = new int[n];
-       // int[] arr = {n};
        if( n == 0){
         System.out.println("array is empty");
         return;
