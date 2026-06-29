@@ -2,9 +2,7 @@ import java.util.*;
 public class CountAll {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
-
             String str = sc.next();
-
             int letters = 0, digits = 0, special = 0;
 
             for(char c : str.toCharArray()) {
