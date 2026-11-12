@@ -6,7 +6,6 @@ public class DirectoryTest {
 
       // Create directory now.
       directory.mkdirs();
-
       // create new file object
       File file = new File("/tmp/user/java/bin");
       System.out.println(file.exists());      
